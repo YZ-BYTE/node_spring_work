@@ -1,13 +1,16 @@
 {
   "name": ".md",
-  "sort": 0,
+  "sort": 1,
   "icon": "",
   "closed": false,
   "refCreateSaveBox": "",
   "refCreateSavePath": "",
   "docCreateSaveBox": "",
   "docCreateSavePath": "",
+  "docCreateTemplatePath": "",
   "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}",
   "dailyNoteTemplatePath": "",
-  "sortMode": 15
+  "sortMode": 15,
+  "encrypted": false,
+  "boxCrypt": null
 }
